@@ -1,6 +1,10 @@
-Thanks for downloading this template!
+Julia Child LOD
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
+by Sarah Tew, Denise Biasio and Vanessa Bonanno
+
+
+
+
+
+
 License: https://bootstrapmade.com/license/
