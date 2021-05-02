@@ -1,6 +1,6 @@
 Julia Child LOD
 
-by Sarah Tew, Denise Biasio and Vanessa Bonanno
+by Denise Biasio, Sarah Tew and Vanessa Bonanno
 
 
 
