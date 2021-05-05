@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -664,6 +665,12 @@ section {
   transition: ease-in-out 0.3s;
 }
 
+.services .icon-box h3 {
+  font-weight: 300;
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+
 .services .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
@@ -684,6 +691,7 @@ section {
   font-size: 14px;
   margin-bottom: 0;
 }
+
 
 .services .icon-box:hover {
   border-color: #fff;
